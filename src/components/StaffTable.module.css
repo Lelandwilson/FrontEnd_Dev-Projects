@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  /* border-bottom: 1px solid grey; */
+  padding: 1rem;
+}
+
+table tr:nth-child(n+1):nth-child(-n+3) {
+  border-bottom: 1px solid grey;
+}
+
+table tr:nth-child(4) {
+  border-bottom: none;
+}

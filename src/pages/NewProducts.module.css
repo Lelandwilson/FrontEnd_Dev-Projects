@@ -1,0 +1,11 @@
+.pageTitle {
+  margin: 0.2rem;
+  padding-left: 1rem;
+}
+
+.iconNewItem {
+  width: 60px;
+  position: absolute;
+  top: -40px;
+  left: -55px;
+}

@@ -1,0 +1,27 @@
+.pageTitle{
+    margin: 0.2rem;
+    padding-left: 1rem;
+}
+
+.ourStory{
+    margin-left: 2rem;
+    min-width: 95%;
+
+}
+.mapSection{
+    display: flex;
+    gap: 4rem;
+    flex-direction: row;
+    align-items: center;
+}
+
+.mapRight > p{
+    line-height: 2px;
+
+}
+
+.googleMap{
+    width: 400px;
+    border: solid black 1px;
+    margin-left: 2rem;
+}

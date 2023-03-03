@@ -1,0 +1,53 @@
+
+.mainSection{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-block: 2rem;
+    width: min(95%, 70rem);
+    margin-inline: auto;
+}
+
+.gridColSpan2{
+    grid-column: span2;
+    padding-top: 1.5rem;
+}
+
+.pageTitle{
+    margin: 0.2rem;
+    padding-left: 1rem;
+}
+
+.map{
+    max-width: 10rem;
+}
+
+.image{
+    width: 30vw;
+    height: 18vw;
+    object-fit: cover;
+
+}
+.discountSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+.linkSpan{
+    text-decoration: underline;
+}
+
+.strikeText{
+    text-decoration: line-through;
+}
+
+.addToCartSection{
+    display: flex;
+}
+.form{
+    margin: 0px;
+    padding: 0px;
+}
