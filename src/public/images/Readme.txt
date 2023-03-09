@@ -1,1 +1,0 @@
-You are not allowed to use these images anywhere other than for CSE2ICX assessments.
